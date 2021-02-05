@@ -22,8 +22,12 @@ coverage
 # Visual Studio files
 .ntvs_analysis.dat
 .vs
+.vscode
 bin
 obj
+
+# IntelliJ files
+.idea
 
 # Resx Generated Code
 *.resx.ts
